@@ -1,1 +1,2 @@
-
+After using both command line and GUI-based file browsers for the first time, I found that I prefer to use the command line for file browsing. I used the terminal.app that came pre-installed on my macbook for this project and found this to be the most comfortable. Once getting over the initial learning curve and “fear” of coding, the command line was much quicker in making changes to files and directories. 
+I also found that the command line format utilized simpler commands then the GUI-base format. I had an easier time remembering the commands for the command line over the GUI, I believe this is why I find myself more likely to use it. I am excited to learn more about both systems and am curious to see how we will use both for this class. 
