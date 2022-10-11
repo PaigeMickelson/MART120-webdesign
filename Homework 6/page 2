@@ -1,0 +1,23 @@
+<html>
+    <title>Page 2</title>
+    <head></head>
+    <body bgcolor="grey">
+    <h1> Short Story: Masks by Shel Sivlerstein </h1>
+    <br/>
+    <p> She had blue skin</p>
+    <p> And so did he.</p>
+    <p>He kept it hid</p>
+    <p> And so did she </p>
+    <p>They searched for Blue</p>
+    <p>Their whole life through,</p>
+    <p>Then passed right by--</p>
+    <p>And never knew.</p>
+    <br/>
+    <img src="file:///Users/paige/Downloads/mask.jpg" height='200' width="200"/>
+
+
+    <p><a href="homepage.html">Back to Homepage</a></p>
+    <p><a href="page3.html">Contact us</a></p>
+ 
+</body>
+</html>
