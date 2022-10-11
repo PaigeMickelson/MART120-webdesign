@@ -1,0 +1,31 @@
+<html>
+<title>First page</title>
+<head></head>
+<body bgcolor="pink">
+<h1>Homepage: About me!!</h1>
+<br/>
+<h2>My Favorite Hobbies</h2>
+<ul>
+    <li>Playing soccer</li>
+    <li>Going to the gym</li>
+    <li>Listening to podcasts</li>
+    <li>Being in nature</li>
+</ul>
+<h2>My Favorite Restaurants</h2>
+<ul>
+    <li><a href="https://www.zoothai.com/" target="_new"> Zoo Thai</a></li>
+    <li><a href="https://empanada.us/" target="_new"> The Empanada Joint</a></li>
+    <li><a href="http://www.fiveonblack.com/" target="_new"> Five on Black</a></li>
+    <li><a href="https://www.mountainberrybowls.com/" target="_new"> Mountain Berry Bowls</a></li>
+</ul>
+<h2> My Favorite Websites</h2>
+<ol>
+    <li><a href="https://www.nwslsoccer.com/" target="_new"> National Womens Soccer League</a></li>
+    <li><a href="https://shop.lululemon.com/" target="_new"> Lululemon</a></li>
+    <li><a href="https://www.coolmathgames.com/0-papas-freezeria" target="_new"> Papa's Freezeria</a></li>
+</ol>
+<br/>
+<p><a href="page2.html">Go to Short Story</a></p>
+<p><a href="page3.html">Go to Contact Us</a></p>
+</body>
+</html>
