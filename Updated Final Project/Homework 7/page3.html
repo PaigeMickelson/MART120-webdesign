@@ -1,0 +1,87 @@
+<html>
+    <title>Page 3</title>
+<head>
+    <link rel="stylesheet" href="bootstrap.min.css" >
+    <script src="jquery-3.6.1.min.js"></script>
+    <script src="bootstrap.min.js">
+    </script>
+    <script>
+        function Checkboxes()
+        {
+            var firstName= document.getElementByID("fName").value;
+            if(firstName=="")
+            {
+               
+                document.getElementByID("fName").focus();
+                document.getElementByID("fName").style.backgroundColor="red";
+                document.getElementByID("fNameMessage").innerHTML= "*Required";
+                document.getElementByID("fNameMessage").style.color= "red";
+
+                return fasle;
+            }
+            var lastName= document.getElementByID("lName").value;
+            if(firstName=="")
+            {
+                document.getElementByID("lName").focus();
+                document.getElementByID("lName").style.backgroundColor="red";
+                document.getElementByID("lNameMessage").innerHTML= "*Required";
+                document.getElementByID("lNameMessage").style.color= "red";
+
+                return fasle;
+            }
+            var email= document.getElementByID("email").value;
+            if(email=="")
+            {
+                document.getElementByID("email").focus();
+                document.getElementByID("email").style.backgroundColor="red";
+                document.getElementByID("email").innerHTML= "*Required";
+                document.getElementByID("email").style.color= "red";
+            }
+
+        }
+</head>
+
+</head>
+
+<body style="backgroundColor: aliceblue;">
+<style>
+    span{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color:rebeccapurple
+    }
+</style>
+    <body bgcolor="aliceblue"
+    <div style="margin-left: 35px;">
+     <h1>Contact Us</h1>
+    <p></p>
+    <form action="">
+        <p>First Name: <input type="text" id="fName">&nbsp;<span id=fNameMessage"></span></p>
+        <p>Last Name: <input type="text" id="lName"></p>
+        <P> Email: <input type="text" id="email"></P>
+       <button id="btnSubmit" class= "btn btn-primary" onclick='Checkboxes ();'>Submit My Info</button>
+    </form>
+    <!--<div class="tacbox">
+  <input type="checkbox" />
+  I agree to these <a href="#">Terms and Conditions</a>.
+</div>
+-->
+<div class="tacbox">
+  <input id="checkbox" type="checkbox" />
+  <label for="checkbox"> I agree to these <a href="#">Terms and Conditions</a>.</label>
+</div>
+<!--
+<label class="tacbox">
+  <input type="checkbox" />
+  I agree to these <a href="#">Terms and Conditions</a>.
+</label>
+
+<label for="taccheck" class="tacbox">
+  <input id="taccheck" type="checkbox" />
+  I agree to these <a href="#">Terms and Conditions</a>.
+</label>
+    <br/> 
+    <p><a href="homepage.html">Go to the Homepage</a></p>
+    <p><a href="page2.html"> Go to Short Story</a></p>
+</div>
+</body>
+    </html>

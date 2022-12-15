@@ -1,0 +1,36 @@
+body{
+    background-color: cornsilk;
+    background-image: ;
+    background-blend-mode: luminosity;
+}
+
+.content{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color:cadetblue
+}
+
+.title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 42px;
+    color:azure
+}
+
+#home{
+    color:midnightblue
+}
+
+#contact{
+    color:darkturquoise
+}
+
+a:hover{
+    text-decoration: dotted;
+}
+
+a{
+    text-decoration: none;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+}
